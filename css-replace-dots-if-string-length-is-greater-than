@@ -1,0 +1,9 @@
+.reducetext{
+    width: 8rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: block;
+    white-space: nowrap;
+}
+
+<span class="reducetext">A. M. Gonçalves...</span>
